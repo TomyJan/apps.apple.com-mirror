@@ -1,7 +1,7 @@
 # apps.apple.com-mirror
 
-Yet Another a entrance
+YeT aNoThEr A eNtRaNcE
 
-U can Star this
+u CaN sTaR tHiS
 
-go: [TomyJan/apps.apple.com-jump](https://github.com/TomyJan/apps.apple.com-jump)
+gO: [TomyJan/apps.apple.com-jump](https://github.com/TomyJan/apps.apple.com-jump) **dOnOt** StAr ThIs
